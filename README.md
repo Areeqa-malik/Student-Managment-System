@@ -1,15 +1,8 @@
 # 🎓 Student Record Management System (Python Mini Project)
 
-A beginner-level Python console application built as part of the **AI/ML Internship 2026 Lab Manual**, covering concepts from **Module 1 to Module 4** only:
-
-- **Module 1** – Variables, Input/Output, Strings
-- **Module 2** – Control Flow (if-else, loops, break/continue)
-- **Module 3** – Data Structures (Lists, Tuples, Dictionaries)
-- **Module 4** – Functions (default parameters, return values)
+A beginner-level Python console application built as part of the **AI/ML Internship 2026 Lab Manual**, covering concept
 
 No external libraries or advanced topics (no AI/search algorithms) are used — this is a pure Python fundamentals project.
-
----
 
 ## 📌 Features
 
