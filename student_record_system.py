@@ -1,30 +1,21 @@
 """
 Student Record Management System
----------------------------------
-A beginner-friendly mini project built using only:
-    Module 1 -> Variables, Input/Output, Strings
-    Module 2 -> If-Else, Loops, Break/Continue
-    Module 3 -> Lists, Tuples, Dictionaries
-    Module 4 -> Functions (default params, return values)
 
 This console app lets a user add students, view records, search,
 calculate grades, and see simple class statistics.
 """
 
-# ---------------------------------------------------------
-# MODULE 3: Data Structures
 # A list of dictionaries is used to store all student records.
 # Each dictionary holds the details of one student (key-value pairs).
-# ---------------------------------------------------------
 students = []
 
 # A tuple is used for fixed data that should never change.
 GRADE_SCALE = ("A", "B", "C", "D", "F")
 
 
-# ---------------------------------------------------------
-# MODULE 4: Functions
-# ---------------------------------------------------------
+
+# Functions
+
 
 def calculate_grade(marks, scale=GRADE_SCALE):
     """
